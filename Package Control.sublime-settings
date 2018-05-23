@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Indent XML",
+		"INI",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Nodejs",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SublimeGit",
+		"Table Editor",
+		"WordCount"
+	]
+}
