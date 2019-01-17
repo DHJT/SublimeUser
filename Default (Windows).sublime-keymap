@@ -1,9 +1,21 @@
 [
-	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
 	{
+        "keys": ["alt+m"],
+        "command": "markdown_preview",
+        "args": {
+            "target": "browser",
+            "parser":"markdown"
+        }
+    }, {
         "command": "add_current_time",
         "keys": [
             "ctrl+shift+."
         ]
-    },
+    }, {
+        "keys": ["ctrl+shift+r"],
+        "command": "reindent",
+        "args": {
+            "single_line": false
+        }
+    }
 ]

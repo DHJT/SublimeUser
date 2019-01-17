@@ -1,8 +1,9 @@
 {
-	"server_host": "localhost",
+	// "server_host": "localhost",
 	// "server_host": "192.168.33.102",
 
 	// "browser_command": ["open", "-a", "Google Chrome", "{url}"],
+	// "browser_command": ["open", "-a", "Google Chrome", "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"],
 
 	// User public static files should be placed into
 	//   ${packages}/User/OmniMarkupPreviewer/public/
@@ -10,6 +11,7 @@
 	//   ${packages}/User/OmniMarkupPreviewer/templates/
 	// Requires browser reload
 	// "html_template_name": "Evolution Yellow",
+	"html_template_name": "github",
 
 	// list of renderers to be ignored, case sensitive.
 	// Valid renderers are: "CreoleRenderer", "MarkdownRenderer", "PodRenderer",
@@ -47,6 +49,6 @@
 	//                   See: http://daringfireball.net/projects/smartypants/
 	//                   And: https://github.com/waylan/Python-Markdown/blob/master/docs/extensions/smarty.txt
 		// "extensions": ["extra", "codehilite", "toc", "smarty", "subscript", "superscript"]
-		"extensions": ["tables", "fenced_code", "codehilite"]
+		"extensions": ["abbr", "attr_list", "def_list", "fenced_code", "footnotes", "tables", "smart_strong", "codehilite", "strikeout", "subscript", "superscript"]
 	}
 }

@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Better Completion",
 		"BracketHighlighter",
 		"ChineseLocalizations",
 		"ConvertToUTF8",
@@ -13,6 +14,8 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"FileDiffs",
+		"FileHeader",
+		"IMESupport",
 		"Indent XML",
 		"INI",
 		"MarkdownEditing",
@@ -21,7 +24,9 @@
 		"OmniMarkupPreviewer",
 		"Package Control",
 		"SublimeGit",
+		"SublimeREPL",
 		"Table Editor",
+		"TrailingSpaces",
 		"WordCount"
 	]
 }
